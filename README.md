@@ -1,10 +1,7 @@
 # Blythonexport
-A python script to export A 3DRT blender rigged animations (see) to an ascii file.
+A python script to export A 3DRT blender rigged animations to an ascii file.
 At the time of development, this script was used on the following commerically available model:
 https://3drt.com/store/characters/us-army-marines.html
-
-This script was used to import animation as illustated in this OpenGL application
-https://youtu.be/ZfoI50Jc7bE
 
 This script has no interface in blender, these are the GENERAL steps to use it
 1)Load your model
