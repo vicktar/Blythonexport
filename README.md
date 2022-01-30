@@ -3,6 +3,7 @@ A python script to export A 3DRT blender rigged animations to an ascii file.
 At the time of development, this script was used on the following commerically available model:
 https://3drt.com/store/characters/us-army-marines.html
 
+Sample implmentation image:
 <img src="https://github.com/vicktar/Blythonexport/blob/main/Capture.PNG" alt="screenshot" width="400" height="350"></img>
 
 This script has no interface in blender, these are the GENERAL steps to use it
