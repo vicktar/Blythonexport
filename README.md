@@ -21,8 +21,8 @@ This script has no interface in blender, these are the GENERAL steps to use it
   
       -change the frames to export..this is the python "frame" variable
   
-4. Run the script
- 
+4. Run this Python script...in Blender
+
 5. Figure out what to do with the file...sample excerpts of the output file 
 
 <a href="https://github.com/vicktar/Blythonexport/blob/main/uv5sldanim.dat">uv5sldanim</a>.dat
