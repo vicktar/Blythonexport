@@ -22,6 +22,8 @@ This script has no interface in blender, these are the GENERAL steps to use it
  
 5. Figure out what to do with the file...sample excerpts of the output "uv5sldanim" file below:
 
+<pre>
+
 verts, 2517
 0, -0.00106, 1.33693, 0.19754 
 1, -0.00106, 1.44455, 0.18907 
@@ -123,7 +125,5 @@ frame, 1280, 2, 67
 0, -0.00106, 1.32681, 0.19754 
 1, -0.00106, 1.43443, 0.18907 
 2, -0.12187, 1.43506, 0.19332 
-
-
-
-
+      
+</pre>
