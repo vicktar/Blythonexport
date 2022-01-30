@@ -20,7 +20,7 @@ This script has no interface in blender, these are the GENERAL steps to use it
   
 4. Run the script
  
-5. Figure out what to do with the file...sample excerpts of the output "uv5sldanim" file below:
+5. Figure out what to do with the file...sample excerpts of the output file "uv5sldanim" file below:
 
 <pre>
 
